@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>I am Mujtaba Shamas, a Full Stack Engineer with over 7+ years of experience, I am dedicated to creating robust, scalable, and user-centric software solutions. My expertise spans both front-end and back-end development, enabling me to tackle complex projects with confidence.</p>
+<p>I am Mujtaba Shamas, with over 10+ years of hands-on experience, I have established myself as a leading expert in developing innovative and cutting-edge web applications. As a Full Stack Engineer and Solution Architect, I am passionate about leveraging the latest technologies to craft robust, scalable, and tailor-made software solutions.</p>
 <h3>Skills</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
