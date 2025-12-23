@@ -36,6 +36,32 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+<h3>🤖 AI-Native & Agentic Development (2025)</h3>
+
+<p>
+I build software in a <b>fully AI-augmented workflow</b>, using Cursor as my primary development environment.
+My daily setup blends human architectural judgment with autonomous and semi-autonomous AI agents for speed,
+quality, and scale.
+</p>
+
+<ul>
+  <li>⚡ <b>Cursor IDE (2025)</b> as primary editor</li>
+  <li>🧠 Multi-model usage (Claude, GPT-4.x, Sonnet, Auto routing)</li>
+  <li>🤝 Agent-assisted refactors, migrations & feature builds</li>
+  <li>🧪 AI-driven debugging, test generation & code review</li>
+  <li>📐 Human-in-the-loop system & solution architecture</li>
+</ul>
+<p align="center">
+  <img src="https://dev-freelance-bucket2.s3.us-east-005.backblazeb2.com/cursor-2025-models.png" alt="Cursor 2025 Model Usage" width="85%" />
+</p>
+
+<p align="center">
+  <sub>
+    Real-world Cursor usage across multiple frontier models in 2025.
+  </sub>
+</p>
+
+
 <!-- <h3>Open source projects</h3>
 <table>
   <thead align="center">
