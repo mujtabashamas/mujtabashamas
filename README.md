@@ -52,7 +52,7 @@ quality, and scale.
   <li>📐 Human-in-the-loop system & solution architecture</li>
 </ul>
 <p align="center">
-  <img src="[https://dev-freelance-bucket2.s3.us-east-005.backblazeb2.com/cursor-2025-models.png](https://dev-freelance-bucket2.s3.us-east-005.backblazeb2.com/cursor-2025.png)" alt="Cursor 2025 Model Usage" width="85%" />
+  <img src="https://dev-freelance-bucket2.s3.us-east-005.backblazeb2.com/cursor-2025.png" alt="Cursor 2025 Model Usage" width="85%" />
 </p>
 <p align="center">
   <img src="https://dev-freelance-bucket2.s3.us-east-005.backblazeb2.com/cursor-2025-models.png" alt="Cursor 2025 Model Usage" width="85%" />
