@@ -1,108 +1,127 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">Mujtaba Shamas</h1>
 
-
-<p>I am Mujtaba Shamas, with over 10+ years of hands-on experience, I have established myself as a leading expert in developing innovative and cutting-edge web applications. As a Full Stack Engineer and Solution Architect, I am passionate about leveraging the latest technologies to craft robust, scalable, and tailor-made software solutions.</p>
-<h3>Skills</h3>
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img alt="Hyperledger" src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
-  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-<h3>🤖 AI-Native & Agentic Development (2025)</h3>
-
-<p>
-I build software in a <b>fully AI-augmented workflow</b>, using Cursor as my primary development environment.
-My daily setup blends human architectural judgment with autonomous and semi-autonomous AI agents for speed,
-quality, and scale.
+<p align="center">
+  <b>CEO, Aiovix &nbsp;·&nbsp; Principal Software Architect &nbsp;·&nbsp; AI · SaaS · Web3</b><br/>
+  <sub>I build products that ship — not prototypes that sit in a repo.</sub>
 </p>
 
-<ul>
-  <li>⚡ <b>Cursor IDE (2025)</b> as primary editor</li>
-  <li>🧠 Multi-model usage (Claude, GPT-4.x, Sonnet, Auto routing)</li>
-  <li>🤝 Agent-assisted refactors, migrations & feature builds</li>
-  <li>🧪 AI-driven debugging, test generation & code review</li>
-  <li>📐 Human-in-the-loop system & solution architecture</li>
-</ul>
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/mujtabashamas">
+    <img alt="Upwork Top Rated Plus" src="https://img.shields.io/badge/Upwork-Top%20Rated%20Plus%20%E2%80%A2%20Top%203%25-14a800?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  <img alt="100% JSS" src="https://img.shields.io/badge/Job%20Success-100%25-14a800?style=for-the-badge" />
+  <img alt="$50K+ Earned" src="https://img.shields.io/badge/%2450K%2B%20Earned-Upwork-14a800?style=for-the-badge" />
+  <img alt="Years" src="https://img.shields.io/badge/10%2B%20Years-Production%20Experience-0a0a0a?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://mujtabashamas.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mujtabashamas.com-ffffff?style=flat-square&logo=globe&logoColor=black" /></a>
+  &nbsp;
+  <a href="https://aiovix.com"><img alt="Aiovix" src="https://img.shields.io/badge/Agency-aiovix.com-ff3333?style=flat-square" /></a>
+  &nbsp;
+  <a href="https://www.upwork.com/freelancers/mujtabashamas"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=flat-square&logo=upwork&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mujtabashamas"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mujtabashamas-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://twitter.com/mujtaba_shamas"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-mujtaba__shamas-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+## What I Do
+
+> **30+ products shipped. 42+ Upwork clients. 12 countries. $50K+ billed. 100% job success.**
+
+I'm a principal architect and full-stack engineer who builds products people actually use. My studio [Aiovix](https://aiovix.com) partners with founders, growth-stage teams, and agencies to go from idea to live product — fast, clean, and at scale.
+
+Three types of clients come to me:
+
+- **"Build it right the first time"** — Founders who need a real product, not a prototype. I've shipped 30+ from scratch.
+- **"Make AI actually work in our product"** — Not a ChatGPT wrapper. Real AI that reduces costs, drives revenue, and runs in production.
+- **"Jump in and fix or extend what we have"** — I move fast in any codebase without breaking what works.
+
+---
+
+## Results, Not Features
+
+| Project | What Was Built | Outcome |
+|---------|---------------|---------|
+| **LetterMate** | AI legal letter platform | 12,000+ letters generated · 70% cost reduction vs. lawyers |
+| **Closeum** | 13-module AI sales CRM with call transcription | Full pipeline automation from zero |
+| **Flowe** | AI trading strategy engine | Strategy creation 90% faster |
+| **PriorCut** | AI scheduling SaaS | 200+ businesses · 70% booking efficiency gain |
+| **Voice AI Agent** | Conversational voice agent with real-time STT/TTS | Sub-500ms response latency · handles full support workflows autonomously |
+| **Social Playbook** | Competitor intelligence tool | 14,200+ posts analyzed across 5 platforms |
+| **Phiads** | AI video ad pipeline (AWS Step Functions) | UGC-style videos at $1.35 each |
+
+---
+
+## What I Build
+
+| Area | Details |
+|------|---------|
+| 🤖 **AI Agents & Pipelines** | Multi-agent systems, RAG, model routing (Claude · GPT-4o · Gemini), LangChain, Pinecone |
+| 🧠 **LLM Integration** | AI features that work in production — not just demos |
+| 🚀 **SaaS & Full-Stack** | Next.js · React · TypeScript · Node.js · Python/FastAPI · PostgreSQL · Redis |
+| 📱 **MVPs & Product Builds** | Idea to live product with architecture that scales, not rewrites |
+| ⛓️ **Web3 & Blockchain** | Solidity · Smart contracts · dApps · MetaMask · Hardhat · ethers.js |
+| 🔧 **Bug Fixes & Feature Work** | Any codebase, any stack — I ship without breaking what works |
+
+---
+
+## How I Build in 2025
+
+I run a fully AI-augmented development workflow. Claude Code as my primary agent, Cursor as editor, multi-model routing across Claude, GPT-4o, and Gemini depending on the task.
+
 <p align="center">
   <img src="https://dev-freelance-bucket2.s3.us-east-005.backblazeb2.com/cursor-2025.png" alt="Cursor 2025 Model Usage" width="85%" />
 </p>
 <p align="center">
-  <img src="https://dev-freelance-bucket2.s3.us-east-005.backblazeb2.com/cursor-2025-models.png" alt="Cursor 2025 Model Usage" width="85%" />
+  <img src="https://dev-freelance-bucket2.s3.us-east-005.backblazeb2.com/cursor-2025-models.png" alt="Cursor 2025 Models" width="85%" />
 </p>
+<p align="center"><sub>Real Cursor usage across frontier models in 2025.</sub></p>
+
+---
+
+## Tech Stack
+
+**Frontend**
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion`
+
+**Backend**
+`Node.js` `Python` `FastAPI` `NestJS` `Express` `GraphQL`
+
+**Databases**
+`PostgreSQL` `MongoDB` `Redis` `MySQL` `SQLite` `Pinecone`
+
+**AI / LLM**
+`LangChain` `OpenAI` `Claude (Anthropic)` `Gemini` `Pinecone` `pgvector`
+
+**Cloud & DevOps**
+`AWS` `Google Cloud` `Docker` `GitHub Actions` `PM2` `Nginx`
+
+**Web3**
+`Solidity` `Hardhat` `ethers.js` `Web3.js` `Moralis` `Infura` `Hyperledger`
+
+**Payments & Auth**
+`Stripe` `Auth0` `Clerk`
+
+---
+
+## Industries
+
+`FinTech` `Legal Tech` `HealthTech` `E-Commerce` `MarTech` `PropTech` `Web3` `HR`
+
+---
+
+## Open For Work
 
 <p align="center">
-  <sub>
-    Real-world Cursor usage across multiple frontier models in 2025.
-  </sub>
+  <a href="https://www.upwork.com/freelancers/mujtabashamas">
+    <img alt="Hire on Upwork" src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-Top%20Rated%20Plus%20%7C%20100%25%20JSS%20%7C%20%2450K%2B-14a800?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
 </p>
 
+Available for **AI integration**, **SaaS product builds**, **MVP development**, and **full-stack feature work**. Send me a message — I'm responsive and ready to discuss.
 
-<!-- <h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table> -->
-
-<h3>Where to find me</h3>
-<p><a href="https://github.com/mujtabashamas" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/mujtaba_shamas" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mujtabashamas" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-<!-- <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mujtabashamas&amp;show_icons=true" alt="GitHub Stats"></p> -->
+→ [Portfolio](https://mujtabashamas.com) &nbsp;·&nbsp; [Aiovix Agency](https://aiovix.com) &nbsp;·&nbsp; [Upwork](https://www.upwork.com/freelancers/mujtabashamas) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mujtabashamas)
