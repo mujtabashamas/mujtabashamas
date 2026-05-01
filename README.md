@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <b>$50K+ Earned</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>42+ Jobs</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>100% Job Success</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>10+ Years</b>
+  <b>$50K+ Earned</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>60+ Jobs</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>100% Job Success</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>10+ Years</b>
 </p>
 
 <p align="center">
@@ -64,19 +64,27 @@ Principal architect and full-stack engineer. 12+ products live in production acr
 
 ### What I Build
 
-🤖 &nbsp; AI Agents and Multi-Agent Systems
+🤖 &nbsp; AI Agents that work autonomously and complete real tasks without human input
 
-🎙️ &nbsp; Voice AI, real-time STT/TTS, conversational agents, phone automation
+🎙️ &nbsp; Voice AI, phone bots, voice assistants and real-time conversational agents
 
-🔍 &nbsp; RAG Pipelines and LLM Integration with Claude, GPT-4o, Gemini and Pinecone
+💬 &nbsp; Custom AI Chatbots trained on your data, docs and business knowledge
 
-🚀 &nbsp; SaaS and Full-Stack, multi-tenant, Stripe-integrated, production-grade
+📚 &nbsp; RAG, chat with your documents, PDFs, databases and internal knowledge bases
+
+⚙️ &nbsp; AI Automation, eliminate repetitive workflows and cut manual work by 30-70%
+
+🔗 &nbsp; OpenAI, Claude and Gemini API integration into any existing app or product
+
+📊 &nbsp; AI-powered dashboards, reporting and data extraction at scale
+
+🚀 &nbsp; SaaS and Full-Stack apps, multi-tenant, Stripe-integrated, production-grade
 
 📱 &nbsp; MVPs from idea to live product with architecture that scales
 
 ⛓️ &nbsp; Web3 and Smart Contracts, Solidity, Hardhat, dApps, MetaMask
 
-🔧 &nbsp; Feature Work and Bug Fixes, any codebase, fast
+🔧 &nbsp; Feature work and bug fixes, any codebase, fast
 
 <br/>
 
