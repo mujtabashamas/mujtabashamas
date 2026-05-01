@@ -1,132 +1,133 @@
-<h1 align="center">Mujtaba Shamas</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=520&lines=Principal+Software+Architect;AI+%26+Voice+AI+Engineer;SaaS+Builder+%7C+10%2B+Years;CEO+%40+Aiovix" alt="Typing animation" />
+</p>
+
+<h2 align="center">Mujtaba Shamas</h2>
 
 <p align="center">
-  <b>CEO, Aiovix &nbsp;·&nbsp; Principal Software Architect &nbsp;·&nbsp; AI · SaaS · Web3</b><br/>
-  <sub>I build products that ship — not prototypes that sit in a repo.</sub>
+  Building AI products that work in production. Not demos. Not wrappers. Real systems.
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mujtabashamas&color=ff3333&style=flat-square&label=Profile+Views" />
+</p>
+
+<br/>
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/mujtabashamas">
-    <img alt="Upwork Top Rated Plus" src="https://img.shields.io/badge/Upwork-Top%20Rated%20Plus%20%E2%80%A2%20Top%203%25-14a800?style=for-the-badge&logo=upwork&logoColor=white" />
+    <img src="https://img.shields.io/badge/%E2%AD%90%20Top%20Rated%20Plus%20%C2%B7%20Top%203%25%20on%20Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
-  <img alt="100% JSS" src="https://img.shields.io/badge/Job%20Success-100%25-14a800?style=for-the-badge" />
-  <img alt="$50K+ Earned" src="https://img.shields.io/badge/%2450K%2B%20Earned-Upwork-14a800?style=for-the-badge" />
-  <img alt="42+ Jobs" src="https://img.shields.io/badge/42%2B%20Jobs-Completed-14a800?style=for-the-badge" />
-  <img alt="Years" src="https://img.shields.io/badge/10%2B%20Years-Production%20Experience-0a0a0a?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="https://mujtabashamas.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mujtabashamas.com-white?style=flat-square" /></a>
-  &nbsp;
-  <a href="https://aiovix.com"><img alt="Aiovix" src="https://img.shields.io/badge/Agency-aiovix.com-ff3333?style=flat-square" /></a>
-  &nbsp;
-  <a href="https://www.upwork.com/freelancers/mujtabashamas"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=flat-square&logo=upwork&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/mujtabashamas"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://twitter.com/mujtaba_shamas"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <b>$50K+ Earned</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>42+ Jobs</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>100% Job Success</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>10+ Years</b>
 </p>
 
----
-
-## What I Do
-
-12+ products shipped. 42+ clients on Upwork. $50K+ billed. 100% job success. 12 countries.
-
-I'm a principal architect and full-stack engineer who builds real products — AI systems, SaaS platforms, and Web3 applications. My studio [**Aiovix**](https://aiovix.com) works with founders, growth-stage teams, and agencies to go from idea to live product, fast and at scale.
-
-Three types of clients come to me:
-
-**"Build it right the first time"** — I've helped founders and product teams launch 12+ products from scratch. Not throwaway MVPs — things that handle real users from day one.
-
-**"Make AI actually work in our product"** — Most AI features look great in a demo and break in production. I build AI that runs at scale: voice agents, smart CRMs, trading engines, document platforms. Not wrappers around ChatGPT.
-
-**"We have an existing app that needs work"** — I move fast in any codebase without breaking what already works.
-
----
-
-## Shipped & In Production
-
-<p>
-  🏆 <b>LetterMate</b> — AI legal letter platform · 12,000+ letters generated · 70% cost reduction vs. lawyers<br/><br/>
-  🏆 <b>Closeum</b> — 13-module AI sales CRM with call transcription, smart follow-ups, pipeline automation — built from zero<br/><br/>
-  🏆 <b>Flowe</b> — AI trading strategy engine · strategy creation 90% faster<br/><br/>
-  🏆 <b>PriorCut</b> — AI scheduling SaaS · 200+ businesses · 70% booking efficiency gain<br/><br/>
-  🏆 <b>Voice AI Agent</b> — Conversational voice agent with real-time STT/TTS · sub-500ms latency · handles full support workflows autonomously<br/><br/>
-  🏆 <b>Social Playbook</b> — Competitor intelligence tool · 14,200+ posts analyzed across Instagram, LinkedIn, TikTok, Twitter & Facebook<br/><br/>
-  🏆 <b>Phiads</b> — AI video ad pipeline on AWS Step Functions · UGC-style videos at $1.35 each
+<p align="center">
+  <a href="https://mujtabashamas.com"><img src="https://img.shields.io/badge/Portfolio-mujtabashamas.com-111?style=flat-square" /></a>
+  &nbsp;
+  <a href="https://aiovix.com"><img src="https://img.shields.io/badge/Agency-aiovix.com-ff3333?style=flat-square" /></a>
+  &nbsp;
+  <a href="https://www.upwork.com/freelancers/mujtabashamas"><img src="https://img.shields.io/badge/Hire%20Me-14a800?style=flat-square&logo=upwork&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mujtabashamas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://twitter.com/mujtaba_shamas"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
 </p>
 
----
-
-## What I Build
-
-<p>
-  🤖 <b>AI Agents & Multi-Agent Systems</b> — Autonomous pipelines, tool use, memory, orchestration<br/>
-  🎙️ <b>Voice AI</b> — Real-time STT/TTS, conversational agents, phone automation<br/>
-  🔍 <b>RAG & LLM Integration</b> — Retrieval pipelines, model routing (Claude · GPT-4o · Gemini), vector search<br/>
-  🚀 <b>SaaS & Full-Stack</b> — Multi-tenant, role-based, Stripe-integrated, production-grade<br/>
-  📱 <b>MVPs & Product Builds</b> — Idea to live product with architecture that scales, not rewrites<br/>
-  ⛓️ <b>Web3 & Blockchain</b> — Smart contracts, dApps, MetaMask, Solidity, Hardhat<br/>
-  🔧 <b>Bug Fixes & Feature Work</b> — Any codebase, any stack — I ship without breaking what works
-</p>
+<br/>
 
 ---
 
-## Tech Stack
+### Who I Am
+
+Principal architect and full-stack engineer. 12+ products live in production across 12 countries. I run [**Aiovix**](https://aiovix.com), a product studio that works with founders and teams who need AI built properly — not a ChatGPT wrapper, not a prototype, a real system that handles real users and drives real revenue.
+
+---
+
+### Built and Shipped
+
+**12,000+ letters generated** &nbsp; LetterMate · AI legal platform · 70% cost reduction vs. lawyers
+
+**90% faster strategy creation** &nbsp; Flowe · AI trading engine
+
+**200+ businesses onboarded** &nbsp; PriorCut · AI scheduling SaaS · 70% booking efficiency gain
+
+**Sub-500ms response latency** &nbsp; Voice AI Agent · real-time STT/TTS · autonomous support workflows
+
+**14,200+ posts analyzed** &nbsp; Social Playbook · competitor intelligence across 5 platforms
+
+**$1.35 per video** &nbsp; Phiads · AI video ad pipeline on AWS Step Functions
+
+**13 modules, built from zero** &nbsp; Closeum · AI sales CRM with transcription and pipeline automation
+
+---
+
+### What I Build
+
+🤖 &nbsp; AI Agents and Multi-Agent Systems
+
+🎙️ &nbsp; Voice AI — real-time STT/TTS, conversational agents, phone automation
+
+🔍 &nbsp; RAG Pipelines and LLM Integration — Claude, GPT-4o, Gemini, Pinecone
+
+🚀 &nbsp; SaaS and Full-Stack — multi-tenant, Stripe-integrated, production-grade
+
+📱 &nbsp; MVPs — from idea to live product with architecture that scales
+
+⛓️ &nbsp; Web3 and Smart Contracts — Solidity, Hardhat, dApps, MetaMask
+
+🔧 &nbsp; Feature Work and Bug Fixes — any codebase, fast
+
+---
+
+### Tech Stack
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
-  <img alt="Hyperledger" src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 ---
 
-## 🤖 AI-Native Development in 2025
+### AI-Native Development in 2025
 
-I build software in a fully AI-augmented workflow. Claude Code as my primary agent, Cursor as editor — blending human architectural judgment with autonomous AI agents for speed, quality, and scale.
-
-- ⚡ **Claude Code + Cursor** as primary development environment
-- 🧠 Multi-model usage: Claude, GPT-4o, Gemini — routed by task
-- 🤝 Agent-assisted refactors, migrations & feature builds
-- 🧪 AI-driven debugging, test generation & code review
-- 📐 Human-in-the-loop for system design and architecture
+I run a fully AI-augmented workflow. Claude Code as my primary agent, Cursor as editor, multi-model routing across Claude, GPT-4o and Gemini depending on the task. Human-in-the-loop only for architecture decisions — everything else is automated.
 
 <p align="center">
-  <img src="https://dev-freelance-bucket2.s3.us-east-005.backblazeb2.com/cursor-2025.png" alt="Cursor 2025 Model Usage" width="85%" />
+  <img src="https://dev-freelance-bucket2.s3.us-east-005.backblazeb2.com/cursor-2025.png" width="85%" />
 </p>
 <p align="center">
-  <img src="https://dev-freelance-bucket2.s3.us-east-005.backblazeb2.com/cursor-2025-models.png" alt="Cursor 2025 Models" width="85%" />
+  <img src="https://dev-freelance-bucket2.s3.us-east-005.backblazeb2.com/cursor-2025-models.png" width="85%" />
 </p>
 <p align="center"><sub>Real Cursor usage across frontier models in 2025.</sub></p>
 
 ---
 
-## Open For Work
+### Open For Work
 
-Available for **AI agent development**, **voice AI**, **SaaS product builds**, **MVP launches**, and **full-stack feature work**. I'm responsive and ready to start.
+Available now. AI agents, voice AI, SaaS builds, MVPs, full-stack feature work.
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/mujtabashamas">
-    <img alt="Hire on Upwork" src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-Top%20Rated%20Plus%20%7C%20100%25%20JSS%20%7C%20%2450K%2B-14a800?style=for-the-badge&logo=upwork&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-Top%20Rated%20Plus%20%7C%20100%25%20JSS%20%7C%20%2450K%2B-14a800?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
 </p>
 
