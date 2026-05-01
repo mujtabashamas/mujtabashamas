@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=520&lines=CEO+%26+Principal+Software+Architect;AI+Agents+%C2%B7+Voice+AI+%C2%B7+SaaS+%C2%B7+Web3;Top+Rated+Plus+on+Upwork+%C2%B7+Top+3%25;12%2B+Products+Shipped+%C2%B7+12+Countries" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=520&lines=CEO+%26+Principal+Software+Architect;AI+Agents+%C2%B7+Voice+AI+%C2%B7+SaaS+%C2%B7+Web3;Top+Rated+on+Upwork+%C2%B7+Top+10%25;12%2B+Products+Shipped+%C2%B7+12+Countries" alt="Typing animation" />
 </p>
 
 <h2 align="center">Mujtaba Shamas</h2>
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/mujtabashamas">
-    <img src="https://img.shields.io/badge/%E2%AD%90%20Top%20Rated%20Plus%20%C2%B7%20Top%203%25%20on%20Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" />
+    <img src="https://img.shields.io/badge/%E2%AD%90%20Top%20Rated%20%C2%B7%20Top%2010%25%20on%20Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
 </p>
 
@@ -122,7 +122,7 @@ Available now. AI agents, voice AI, SaaS builds, MVPs, full-stack feature work.
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/mujtabashamas">
-    <img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-Top%20Rated%20Plus%20%7C%20100%25%20JSS%20%7C%20%2450K%2B-14a800?style=for-the-badge&logo=upwork&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-Top%20Rated%20%7C%20100%25%20JSS%20%7C%20%2450K%2B-14a800?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
 </p>
 
