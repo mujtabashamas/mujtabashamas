@@ -46,19 +46,19 @@ Principal architect and full-stack engineer. 12+ products live in production acr
 
 ### Built and Shipped
 
-**12,000+ letters generated** &nbsp; LetterMate · AI legal platform · 70% cost reduction vs. lawyers
+**13 modules, built from zero** &nbsp; Closeum · AI sales CRM with call transcription, smart follow-ups and pipeline automation · closeum.com
 
-**90% faster strategy creation** &nbsp; Flowe · AI trading engine
+**14,200+ posts analyzed** &nbsp; Social Playbook · AI competitor intelligence across Instagram, LinkedIn, TikTok, Twitter and Facebook · socialplaybook.io
 
-**200+ businesses onboarded** &nbsp; PriorCut · AI scheduling SaaS · 70% booking efficiency gain
+**$1.35 per video** &nbsp; Phiads · AI video ad pipeline on AWS Step Functions producing UGC-style ads · phiads.com
 
-**Sub-500ms response latency** &nbsp; Voice AI Agent · real-time STT/TTS · autonomous support workflows
+**RAG for law enforcement** &nbsp; SwornX · officers query complex departmental policy in plain language with source-cited answers · sworn.com
 
-**14,200+ posts analyzed** &nbsp; Social Playbook · competitor intelligence across 5 platforms
+**24/7 inbound calls, zero staff** &nbsp; Connexions · AI voice agent handling admissions calls and lead qualification for a sober living rehab center
 
-**$1.35 per video** &nbsp; Phiads · AI video ad pipeline on AWS Step Functions
+**12,000+ letters generated** &nbsp; LetterMate · AI legal letter platform · 70% cost reduction vs. lawyers
 
-**13 modules, built from zero** &nbsp; Closeum · AI sales CRM with transcription and pipeline automation
+**90% faster strategy creation** &nbsp; Flowe · AI trading engine · strategy creation from days to under 15 minutes
 
 <br/>
 
