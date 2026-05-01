@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=520&lines=Principal+Software+Architect;AI+%26+Voice+AI+Engineer;SaaS+Builder+%7C+10%2B+Years;CEO+%40+Aiovix" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=520&lines=CEO+%26+Principal+Software+Architect;AI+Agents+%C2%B7+Voice+AI+%C2%B7+SaaS+%C2%B7+Web3;Top+Rated+Plus+on+Upwork+%C2%B7+Top+3%25;12%2B+Products+Shipped+%C2%B7+12+Countries" alt="Typing animation" />
 </p>
 
 <h2 align="center">Mujtaba Shamas</h2>
@@ -38,13 +38,11 @@
 
 <br/>
 
----
-
 ### Who I Am
 
-Principal architect and full-stack engineer. 12+ products live in production across 12 countries. I run [**Aiovix**](https://aiovix.com), a product studio that works with founders and teams who need AI built properly — not a ChatGPT wrapper, not a prototype, a real system that handles real users and drives real revenue.
+Principal architect and full-stack engineer. 12+ products live in production across 12 countries. I run [**Aiovix**](https://aiovix.com), a product studio that works with founders and teams who need AI built properly. Not a ChatGPT wrapper, not a prototype. A real system that handles real users and drives real revenue.
 
----
+<br/>
 
 ### Built and Shipped
 
@@ -62,25 +60,25 @@ Principal architect and full-stack engineer. 12+ products live in production acr
 
 **13 modules, built from zero** &nbsp; Closeum · AI sales CRM with transcription and pipeline automation
 
----
+<br/>
 
 ### What I Build
 
 🤖 &nbsp; AI Agents and Multi-Agent Systems
 
-🎙️ &nbsp; Voice AI — real-time STT/TTS, conversational agents, phone automation
+🎙️ &nbsp; Voice AI, real-time STT/TTS, conversational agents, phone automation
 
-🔍 &nbsp; RAG Pipelines and LLM Integration — Claude, GPT-4o, Gemini, Pinecone
+🔍 &nbsp; RAG Pipelines and LLM Integration with Claude, GPT-4o, Gemini and Pinecone
 
-🚀 &nbsp; SaaS and Full-Stack — multi-tenant, Stripe-integrated, production-grade
+🚀 &nbsp; SaaS and Full-Stack, multi-tenant, Stripe-integrated, production-grade
 
-📱 &nbsp; MVPs — from idea to live product with architecture that scales
+📱 &nbsp; MVPs from idea to live product with architecture that scales
 
-⛓️ &nbsp; Web3 and Smart Contracts — Solidity, Hardhat, dApps, MetaMask
+⛓️ &nbsp; Web3 and Smart Contracts, Solidity, Hardhat, dApps, MetaMask
 
-🔧 &nbsp; Feature Work and Bug Fixes — any codebase, fast
+🔧 &nbsp; Feature Work and Bug Fixes, any codebase, fast
 
----
+<br/>
 
 ### Tech Stack
 
@@ -105,21 +103,18 @@ Principal architect and full-stack engineer. 12+ products live in production acr
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
----
+<br/>
 
 ### AI-Native Development in 2025
 
-I run a fully AI-augmented workflow. Claude Code as my primary agent, Cursor as editor, multi-model routing across Claude, GPT-4o and Gemini depending on the task. Human-in-the-loop only for architecture decisions — everything else is automated.
+I run a fully AI-augmented workflow. Claude Code as my primary agent, Cursor as editor, multi-model routing across Claude, GPT-4o and Gemini depending on the task. Human-in-the-loop only for architecture decisions, everything else is automated.
 
 <p align="center">
   <img src="https://dev-freelance-bucket2.s3.us-east-005.backblazeb2.com/cursor-2025.png" width="85%" />
 </p>
-<p align="center">
-  <img src="https://dev-freelance-bucket2.s3.us-east-005.backblazeb2.com/cursor-2025-models.png" width="85%" />
-</p>
 <p align="center"><sub>Real Cursor usage across frontier models in 2025.</sub></p>
 
----
+<br/>
 
 ### Open For Work
 
