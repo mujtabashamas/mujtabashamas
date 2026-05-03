@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <b>$50K+ Earned</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>60+ Jobs</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>100% Job Success</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>10+ Years</b>
+  <b>$60K+ Earned</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>60+ Jobs</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>100% Job Success</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>10+ Years</b>
 </p>
 
 <p align="center">
