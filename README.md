@@ -1,8 +1,8 @@
 <h1 align="center">Mujtaba Shamas</h1>
 
 <p align="center">
-  <strong>Head of AI &amp; Product Development at <a href="https://aiovix.com">AIOVIX</a></strong><br/>
-  I turn business problems into production-ready AI and software products.
+  <strong>Principal Agentic AI Engineer at <a href="https://aiovix.com">AIOVIX</a></strong><br/>
+  I design and build production AI systems that connect models to data, tools, and workflows.
 </p>
 
 <p align="center">
@@ -21,34 +21,42 @@
 
 ## About
 
-I lead AI and product development at [AIOVIX](https://aiovix.com), working with founders and operators from initial scope through architecture, development, deployment, and growth.
+I work as a Principal Agentic AI Engineer at [AIOVIX](https://aiovix.com), designing and building production AI systems for companies with real workflows, data, and software already in place.
 
-My background is in full-stack engineering. I stay hands-on with the architecture, AI behavior, integrations, and production decisions that determine whether a product remains reliable after launch.
+My background is in full-stack engineering. I stay hands-on across agent architecture, retrieval, tool use, integrations, data models, evaluation, observability, and deployment.
 
-**Upwork:** Top Rated Plus · 100% Job Success · 60+ jobs · $60K+ earned
+**Upwork:** Top Rated Plus · 97% Job Success · 65 jobs · $80K+ earned
 
 ## Selected work
 
-- **13+ connected modules** — AI sales CRM with call transcription, smart follow-ups, pipeline automation, payments, and team reporting.
-- **14,200+ posts analyzed** — competitor intelligence across Instagram, LinkedIn, TikTok, X, and Facebook.
-- **$1.35 per video** — AWS Step Functions pipeline producing UGC-style video ads.
-- **12,000+ letters generated** — guided AI legal-letter product with a reported 70% cost reduction.
-- **Source-grounded policy RAG** — plain-language document search with citations and reviewable answers.
+- **AI sales CRM** — call transcription, lead scoring, follow-up actions, pipeline automation, payments, and team reporting across 13+ connected modules.
+- **Source-grounded RAG platform** — document ingestion, cited answers, organization access, permissions, and reviewable outputs across 1,682+ documents.
+- **Healthcare voice system** — intake, qualification, appointment booking, transcripts, summaries, CRM updates, and staff handoff.
+- **Multimodal AI pipeline** — image, video, voice, and copy generation producing 486 videos in one month across multiple workspaces.
+- **AI video workflow** — AWS Step Functions pipeline producing UGC-style video ads at approximately $1.35 per video.
 
 ## What I build
 
-- **AI workflow systems:** agents, automation, voice AI, document intelligence, RAG, and integrations.
-- **AI products and SaaS:** multi-tenant applications, dashboards, billing, permissions, and model-backed features.
-- **Sales and CRM systems:** lead qualification, call workflows, booking, follow-up, and pipeline automation.
-- **Web and commerce systems:** customer journeys, product platforms, configurators, and conversion-focused builds.
+- **Agentic AI systems:** agents that retrieve context, call tools, complete multi-step work, and recover from failures.
+- **Voice and document systems:** intake, qualification, booking, OCR, structured extraction, RAG, citations, and review workflows.
+- **AI products and SaaS:** multi-tenant applications, dashboards, billing, permissions, APIs, and model-backed features.
+- **Business systems:** CRM, workflow automation, integrations, internal platforms, and operational software.
 
 ## Technical background
 
-**Application:** TypeScript, JavaScript, Python, React, Next.js, Node.js, FastAPI, NestJS
+**AI:** OpenAI, Claude, Gemini, MCP, LangChain, LangGraph, RAG, tool calling
 
-**Data and infrastructure:** PostgreSQL, MongoDB, Redis, AWS, Google Cloud, Docker, GitHub Actions
+**Voice:** Twilio, Vapi, Retell, ElevenLabs, Deepgram, OpenAI Realtime
 
-**AI and integrations:** OpenAI, Claude, Gemini, vector search, RAG, voice APIs, Stripe, third-party APIs
+**Backend:** Python, FastAPI, Node.js, REST APIs, GraphQL, WebSockets
+
+**Data:** PostgreSQL, Supabase, Redis, MongoDB, Pinecone, Qdrant
+
+**Applications:** TypeScript, JavaScript, React, Next.js, NestJS, React Native
+
+**Infrastructure:** AWS, Google Cloud, Docker, Vercel, GitHub Actions, CI/CD, logging, and monitoring
+
+**Integrations:** Stripe, third-party APIs, vector search, and business platforms
 
 I also have production experience with Solidity, Hardhat, Solana, Web3 applications, wallet integrations, and smart-contract systems.
 
