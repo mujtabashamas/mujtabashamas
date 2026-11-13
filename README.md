@@ -1,8 +1,8 @@
 <h1 align="center">Mujtaba Shamas</h1>
 
 <p align="center">
-  <strong>Principal Agentic AI Engineer at <a href="https://aiovix.com">AIOVIX</a></strong><br/>
-  I design and build production AI systems that connect models to data, tools, and workflows.
+  <strong>Founder and Principal Agentic AI Engineer at <a href="https://aiovix.com">AIOVIX</a></strong><br/>
+  I design, build, and secure production AI agents that connect models to data, tools, and workflows.
 </p>
 
 <p align="center">
@@ -19,9 +19,21 @@
   </a>
 </p>
 
+## For recruiters
+
+| | |
+|---|---|
+| **Roles** | Principal or senior AI engineer, agentic AI architect, applied AI and AI platform engineer |
+| **Open to** | Full-time or contract, remote |
+| **Based in** | Lahore, Pakistan (UTC+5). 4 to 6 hours of overlap with US Eastern, full overlap with Europe and the Middle East |
+| **Experience** | 10+ years in software. Production AI agents and LLM systems since 2024 |
+| **Strongest in** | Agent architecture, RAG, voice AI, tool use and MCP, integrations, evaluation, and deployment |
+| **Resume** | [Download PDF](https://mujtabashamas.com/mujtaba-shamas-resume-2026.pdf) |
+| **Contact** | [hello@mujtabashamas.com](mailto:hello@mujtabashamas.com) · [LinkedIn](https://www.linkedin.com/in/mujtabashamas) |
+
 ## About
 
-I work as a Principal Agentic AI Engineer at [AIOVIX](https://aiovix.com), designing and building production AI systems for companies with real workflows, data, and software already in place.
+I founded [AIOVIX](https://aiovix.com) and work as its Principal Agentic AI Engineer, designing and building production AI systems for companies with real workflows, data, and software already in place.
 
 My background is in full-stack engineering. I stay hands-on across agent architecture, retrieval, tool use, integrations, data models, evaluation, observability, and deployment.
 
@@ -38,9 +50,10 @@ My background is in full-stack engineering. I stay hands-on across agent archite
 ## What I build
 
 - **Agentic AI systems:** agents that retrieve context, call tools, complete multi-step work, and recover from failures.
+- **Automation and business systems:** CRM and workflow automation, integrations, internal platforms, and operational software.
 - **Voice and document systems:** intake, qualification, booking, OCR, structured extraction, RAG, citations, and review workflows.
-- **AI products and SaaS:** multi-tenant applications, dashboards, billing, permissions, APIs, and model-backed features.
-- **Business systems:** CRM, workflow automation, integrations, internal platforms, and operational software.
+- **Agent security and governance:** permissions, approval steps, audit trails, and reviews of agents already in production.
+- **AI products:** multi-tenant applications, dashboards, billing, APIs, and model-backed features.
 
 ## Technical background
 
