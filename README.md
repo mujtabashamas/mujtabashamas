@@ -1,8 +1,8 @@
 <h1 align="center">Mujtaba Shamas</h1>
 
 <p align="center">
-  <strong>Agentic AI Architect | Engineering, Security &amp; Governance</strong><br/>
-  I design, build, and govern AI agents and automation for healthcare, payments, trading, and compliance teams, with access limits, audit trails, and tests built in.
+  <strong>Principal AI Engineer &amp; Architect</strong><br/>
+  Ten years in full-stack engineering. I design AI systems, lead the build and take them to production: LLM and RAG pipelines, agent orchestration, distributed backends, and cloud infrastructure on AWS, Google Cloud, Docker and Kubernetes.
 </p>
 
 <p align="center">
@@ -22,23 +22,28 @@
 
 ## Production systems (private repositories)
 
-- **Healthcare voice intake:** a phone agent that answers after hours, qualifies the caller, books the appointment, and hands the lead to staff with the transcript. 1,500+ calls logged.
-- **Source-grounded RAG:** cited answers over 1,682+ documents for 19+ organizations, with role access, organization isolation, and audit history.
-- **Compliance backend:** 100+ services running automated accessibility and privacy checks (WCAG, Section 508, PDF/UA, GDPR/CCPA), with audit trails.
-- **Trading platform:** live market data, order types, and wallet auth for a funded Solana trading product.
+- **Trading platform:** live market data over WebSockets, market, limit and DCA orders, and five exchange integrations for a funded Solana trading product.
+- **Distributed backend:** 100+ services running automated accessibility and privacy checks (WCAG, Section 508, PDF/UA, GDPR/CCPA), built to scale across many clients.
+- **RAG platform:** retrieval-augmented generation over 1,682+ documents with citations, role access and organization isolation.
+- **Real-time voice pipeline:** a voice agent in production that answers inbound calls, stores each one, qualifies the lead and hands it to staff with the full history. 1,500+ calls logged.
 - **AI sales CRM:** call transcription and pipeline automation, with $99,500+ in tracked revenue.
 
-## How I build agents
+## Stack
 
-- Every tool an agent can call has a scope, a permission, and a log line.
-- Anything that moves money, deletes data, or sends a message outward needs a person or a fixed rule to approve it, not the model.
-- Text inside documents, emails, and calls is untrusted input.
-- Changes ship against a fixed test set, so a regression shows up before a user finds it.
+TypeScript, Python, Node.js, Next.js, FastAPI · PostgreSQL, MongoDB, MySQL, Redis, NATS · AWS, Google Cloud, Docker, Kubernetes, CI/CD · OpenAI, Claude, Gemini, MCP, LangChain, LangGraph, RAG
+
+## How I engineer
+
+- Design for the failure first: decide what happens when a service, a model or a vendor goes down.
+- Models propose. Rules and people decide, wherever money moves.
+- Ship small and measure everything: every release has a test or a measured result behind it.
+- Logs and alerts exist from the first version.
 
 ## Work with me
 
-For a product build, workflow problem, or existing codebase that needs attention:
+Hiring for a senior engineering role, or need an engineer on a contract:
 
+[Resume](https://mujtabashamas.com/mujtaba-shamas-resume-2026.pdf) ·
 [Send an inquiry](https://mujtabashamas.com/#contact) ·
 [Hire me on Upwork](https://www.upwork.com/freelancers/mujtabashamas) ·
 [Connect on LinkedIn](https://www.linkedin.com/in/mujtabashamas)
